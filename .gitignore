@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.vs/ScienceFoundry.Simulation/v16/.suo
+.vs/ScienceFoundry.Simulation/v16/TestStore/0/000.testlog
+.vs/ScienceFoundry.Simulation/v16/TestStore/0/testlog.manifest
+ScienceFoundry.Simulation/obj/Debug/ScienceFoundry.Simulation.Patch.csprojAssemblyReference.cache
